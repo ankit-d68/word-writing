@@ -1,5 +1,5 @@
 # Dictory-word
-Automation file creation tool! 
+File Dictory word creation tool! 
 
 
 info : https://github.com/ankit-d68
