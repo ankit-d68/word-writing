@@ -3,7 +3,6 @@ import os
 def system():
 	os.system('clear')
 	print("This is a Dictory automation tool!..\n\n")
-
 	print("If you want to Quit the code Then press ctrl c Quiting,........!!!\n")
 
 def file_open():
@@ -18,15 +17,13 @@ def file_open():
 				word = file.write(dic_word + "\n")
 			elif dic_word is "":
 				print("\tBlank!!") 
-		
 		file.close()
-
 	else:
-		print(".txt extention is not given.")
+	      print(".txt extention is not given.")
 
 try:
-	system()
-	file_open()
+    system()
+    file_open()
 except KeyboardInterrupt:
 	pass
 
