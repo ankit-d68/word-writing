@@ -2,7 +2,7 @@ import os
 
 def system():
 	os.system('clear')
-	print("This is a Dictory automation tool!..\n\n")
+	print("This is a Dictory word tool!..\n\n")
 	print("If you want to Quit the code Then press ctrl c Quiting,........!!!\n")
 
 def file_open():
