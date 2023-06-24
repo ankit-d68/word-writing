@@ -1,5 +1,5 @@
-# Simple world tool
-This is just a simple word tool or just simple script
+# Simple word writing script
+This is just a simple word writing script or just like notpad
                
 Requirment:Python2 and os modules
 
