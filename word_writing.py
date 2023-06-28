@@ -23,7 +23,7 @@ def file_open():
 			count+=1
 			if word_write:
 				word = file.write(word_write + "\n")
-			elif word_write is "":
+			elif word_write in "":
 				print("\tBlank!!") 
 		file.close()
 	else:
