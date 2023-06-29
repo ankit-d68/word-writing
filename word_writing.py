@@ -1,4 +1,7 @@
 #*************************************************************
+# This is just a simple word writing script
+#
+#
 # To run the script in linux type python3 word_writing.py
 # and  windows type python word_writing.py
 #
