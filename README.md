@@ -1,5 +1,5 @@
 # Simple word writing script
-This is just a simple word writing script  just like notpad
+This is just a simple word writing script  just like (notpad)
                
 Requirment:Python3 and subprocess modules
 
