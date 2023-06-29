@@ -9,9 +9,9 @@
 import subprocess
 
 def system():
-	if subprocess.run("cls",shell=True):#This is window command
+	if subprocess.run("cls",shell=True):#This line of code contain window command
 		pass
-	elif subprocess.run("clear",shell=True):#This is linux command
+	elif subprocess.run("clear",shell=True):#This line of code contain  linux command
 		pass
 	print("This is a word writing script!..\n\n")
 	print("If you want to Quit the code Then press ctrl c Quiting,........!!!\n")
