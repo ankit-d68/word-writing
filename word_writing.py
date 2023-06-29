@@ -36,6 +36,6 @@ try:
     system()
     file_open()
 except KeyboardInterrupt:
-	pass
+	print("Exit the code")
 
 
